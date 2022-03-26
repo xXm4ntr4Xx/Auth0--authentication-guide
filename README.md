@@ -4,7 +4,7 @@
 
 <img width="1379" alt="Screenshot 2022-03-23 at 21 33 03" src="https://user-images.githubusercontent.com/74420607/159799482-3fdeafa2-8d77-4f00-85ad-6f408f320ca1.png">
 <hr/>
-2.Select the app type(sigle page,native...)
+2.Select the app type(sigle page,native,etc...)
 
 <img width="741" alt="Screenshot 2022-03-23 at 21 34 40" src="https://user-images.githubusercontent.com/74420607/159799710-8f4a84bb-4a0f-49dc-a4d3-e2bc949d9f17.png">
 <hr/>
